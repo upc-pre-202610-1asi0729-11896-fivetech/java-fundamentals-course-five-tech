@@ -26,9 +26,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 2 — Variables, tipos de datos y operadores (7–10 min)
 
 - **Descripción**: Aprende a almacenar información en Java usando variables. Se trabaja con `int`, `double`, `String` y operadores matemáticos básicos.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [https://youtu.be/H-E3R28FQpo](https://youtu.be/H-E3R28FQpo)
 - **Conclusiones clave**: Declara variables como `int edad = 15;` o `String nombre = "Ana";`; los operadores te permiten calcular promedios y combinar texto.
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java)  **¡No es necesario registrarse!**
+- **Práctica**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡No es necesario registrarse!**
 
 ---
 

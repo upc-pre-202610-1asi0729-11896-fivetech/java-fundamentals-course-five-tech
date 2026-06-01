@@ -4,11 +4,11 @@
 
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: ~75 minutos  
+**Duración total**: ~60 minutos  
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
-**Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course-teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
+**Repositorio de Código Fuente**: [https://github.com/upc-pre-202610-1asi0729-11896-fivetech/java-fundamentals-course-five-tech](https://github.com/upc-pre-202610-1asi0729-11896-fivetech/java-fundamentals-course-five-tech)
 
 ---
 
@@ -17,9 +17,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 1 — ¿Qué es programar? ¿Qué es Java? (7–10 min)
 
 - **Descripción**: Conoce qué es la programación, qué es Java y por qué es un excelente lenguaje para empezar. Se usan ejemplos cotidianos: videojuegos, aplicaciones escolares, cajeros automáticos.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [https://youtu.be/XmHaV9mZF-A](https://youtu.be/XmHaV9mZF-A)
 - **Conclusiones clave**: Java se usa en aplicaciones, juegos y plataformas del mundo real; los programas son instrucciones que la computadora sigue paso a paso.
-- **Empieza a programar**: [Abrir en Replit — Hola Mundo](https://replit.com/@your-starter-java)  **¡No necesitas registrarte!**
+
 
 ---
 
@@ -88,13 +88,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Recursos adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+- **Código fuente completo**: [https://github.com/upc-pre-202610-1asi0729-11896-fivetech/java-fundamentals-course-five-tech](https://github.com/upc-pre-202610-1asi0729-11896-fivetech/java-fundamentals-course-five-tech)
+
 - **Todas las actividades prácticas**:
 
 | Módulo | Tema | Empezar a programar |
 |--------|------|---------------------|
-| 1 | Hola Mundo — Introducción a Java | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables y tipos de datos | [Replit](https://replit.com/@your-lesson2) |
+| 1 | Hola Mundo — Introducción a Java | [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) |
+| 2 | Variables y tipos de datos | [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) |
 | 3 | Condicionales | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson4) |
 | 5 | Métodos y parámetros | [OnlineGDB](https://onlinegdb.com/your-lesson5) |
@@ -115,7 +116,7 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202610  
 1ASI0729 Desarrollo de Aplicaciones Open Source  
-NRC [Número de NRC]
+NRC 11896
 
 **Nombre del equipo**: FiveTech  
 **Líder del equipo**: Julio Frank Quispe Serrano  

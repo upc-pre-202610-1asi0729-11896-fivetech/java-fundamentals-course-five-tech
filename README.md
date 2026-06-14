@@ -71,9 +71,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 7 — Clases, objetos y constructores (7–10 min)
 
 - **Descripción**: Introducción a la Programación Orientada a Objetos. Se explica la clase `Estudiante` con sus atributos y constructor usando la analogía: clase = molde, objeto = elemento creado desde el molde.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link7)
+- **Enlace**: [https://www.youtube.com/watch?v=iSA4nHfkHlI](https://www.youtube.com/watch?v=iSA4nHfkHlI)
 - **Conclusiones clave**: `class Estudiante { String nombre; int edad; }`; el constructor inicializa el objeto; `new Estudiante("Luis", 16, 14, 18)` crea una instancia.
-- **Práctica**: [Clic para programar](https://replit.com/@your-lesson7)  **¡Guarda y comparte!**
+- **Práctica**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡Guarda y comparte!**
 
 ---
 
@@ -100,7 +100,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 4 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson4) |
 | 5 | Métodos y parámetros | [OnlineGDB](https://onlinegdb.com/your-lesson5) |
 | 6 | Scanner — Entrada de datos | [OnlineGDB](https://onlinegdb.com/your-lesson6) |
-| 7 | Clases y objetos | [Replit](https://replit.com/@your-lesson7) |
+| 7 | Clases y objetos | [OnlineGDB](https://onlinegdb.com/KW9-Bc1aE) |
 | 8 | Encapsulación + Proyecto Final | [Replit](https://replit.com/@your-lesson8) |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
@@ -124,5 +124,5 @@ NRC 11896
 - U20241D922 - Julio Frank Quispe Serrano
 -
 -
-- 
+- U202316852 - José Zacarias Ortega Quintana
 **Fecha de entrega**: 07-06-2026

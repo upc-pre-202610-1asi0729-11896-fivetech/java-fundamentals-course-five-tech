@@ -55,7 +55,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a crear bloques de código reutilizables llamados métodos. Se usan ejemplos como `saludar()` y `mostrarMensaje("texto")`.
 - **Enlace**: [Ver el módulo](https://youtu.be/WHbrixMrszo)
 - **Conclusiones clave**: Un método es una tarea reutilizable; `public static void saludar() { ... }`; los parámetros permiten enviar datos al método.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/your-gdb-id5)  **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/JlXY7PyPP)  **¡No necesitas registrarte!**
 
 ---
 

@@ -55,7 +55,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a crear bloques de código reutilizables llamados métodos. Se usan ejemplos como `saludar()` y `mostrarMensaje("texto")`.
 - **Enlace**: [Ver el módulo](https://youtu.be/WHbrixMrszo)
 - **Conclusiones clave**: Un método es una tarea reutilizable; `public static void saludar() { ... }`; los parámetros permiten enviar datos al método.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/your-gdb-id5)  **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/JlXY7PyPP)  **¡No necesitas registrarte!**
 
 ---
 
@@ -64,7 +64,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a hacer programas interactivos que reciban datos del usuario usando `Scanner`. Se pide nombre, edad y nota desde la consola.
 - **Enlace**: [Ver el módulo](https://youtu.be/nU_MuK-COlc)
 - **Conclusiones clave**: `Scanner sc = new Scanner(System.in);`; `sc.nextLine()` lee texto; `sc.nextInt()` lee números enteros.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/your-gdb-id6)  **¡Sin descarga!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/qMNR3B5sK)  **¡Sin descarga!**
 
 ---
 

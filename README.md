@@ -71,9 +71,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 7 — Clases, objetos y constructores (7–10 min)
 
 - **Descripción**: Introducción a la Programación Orientada a Objetos. Se explica la clase `Estudiante` con sus atributos y constructor usando la analogía: clase = molde, objeto = elemento creado desde el molde.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=iSA4nHfkHlI)
+- **Enlace**: [https://www.youtube.com/watch?v=iSA4nHfkHlI](https://www.youtube.com/watch?v=iSA4nHfkHlI)
 - **Conclusiones clave**: `class Estudiante { String nombre; int edad; }`; el constructor inicializa el objeto; `new Estudiante("Luis", 16, 14, 18)` crea una instancia.
-- **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)  **¡Guarda y comparte!**
+- **Práctica**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡Guarda y comparte!**
 
 ---
 

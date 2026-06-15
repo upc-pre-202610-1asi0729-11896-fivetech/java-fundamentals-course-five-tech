@@ -53,18 +53,18 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 5 — Métodos y parámetros (7–10 min)
 
 - **Descripción**: Aprende a crear bloques de código reutilizables llamados métodos. Se usan ejemplos como `saludar()` y `mostrarMensaje("texto")`.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver el módulo](https://youtu.be/WHbrixMrszo)
 - **Conclusiones clave**: Un método es una tarea reutilizable; `public static void saludar() { ... }`; los parámetros permiten enviar datos al método.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/your-gdb-id5)  **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/JlXY7PyPP)  **¡No necesitas registrarte!**
 
 ---
 
 ### Módulo 6 — Entrada de datos con Scanner (7–10 min)
 
 - **Descripción**: Aprende a hacer programas interactivos que reciban datos del usuario usando `Scanner`. Se pide nombre, edad y nota desde la consola.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver el módulo](https://youtu.be/nU_MuK-COlc)
 - **Conclusiones clave**: `Scanner sc = new Scanner(System.in);`; `sc.nextLine()` lee texto; `sc.nextInt()` lee números enteros.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/your-gdb-id6)  **¡Sin descarga!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/qMNR3B5sK)  **¡Sin descarga!**
 
 ---
 
@@ -80,9 +80,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 8 — Encapsulación + Proyecto Final (10–12 min)
 
 - **Descripción**: Cierre del curso: se aplica encapsulación con `private`, getters y setters, y se muestra el sistema de registro de estudiantes funcionando de forma completa con menú interactivo.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link8)
+- **Enlace**: [https://youtu.be/3My2csNZaYs](https://youtu.be/3My2csNZaYs)
 - **Conclusiones clave**: `private` protege los datos; los getters los obtienen y los setters los modifican; el proyecto final integra todo lo aprendido en un sistema funcional.
-- **Proyecto final**: [Crear tu aplicación POO](https://replit.com/@your-final-java)  **¡Guarda y comparte!**
+- **Proyecto final**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡Guarda y comparte!**
 
 ---
 
@@ -101,7 +101,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 5 | Métodos y parámetros | [OnlineGDB](https://onlinegdb.com/your-lesson5) |
 | 6 | Scanner — Entrada de datos | [OnlineGDB](https://onlinegdb.com/your-lesson6) |
 | 7 | Clases y objetos | [OnlineGDB](https://onlinegdb.com/KW9-Bc1aE) |
-| 8 | Encapsulación + Proyecto Final | [Replit](https://replit.com/@your-lesson8) |
+| 8 | Encapsulación + Proyecto Final | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
 - Comparte tu avance: **#JavaFundamentosUPC**

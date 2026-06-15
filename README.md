@@ -35,9 +35,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 3 — Condicionales (`if`, `else`, `else if`) (7–10 min)
 
 - **Descripción**: Aprende cómo un programa toma decisiones usando condiciones. Se explica con ejemplos visuales como "si aprobó → mostrar felicitación".
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver el módulo](https://youtu.be/NYCTRbleRcs)
 - **Conclusiones clave**: `if (promedio >= 11) { ... } else { ... }`; los operadores relacionales (`>`, `<`, `==`) permiten comparar valores.
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id)  **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.programiz.com/java-programming/online-compiler/)  **¡Inicio inmediato!**
 
 ---
 
@@ -122,7 +122,7 @@ NRC 11896
 **Líder del equipo**: Julio Frank Quispe Serrano  
 **Integrantes del equipo**:
 - U20241D922 - Julio Frank Quispe Serrano
--
+- U202424059 - Mathias Marcelo De la Cruz De los Santos
 -
 - U202316852 - José Zacarias Ortega Quintana
 **Fecha de entrega**: 07-06-2026

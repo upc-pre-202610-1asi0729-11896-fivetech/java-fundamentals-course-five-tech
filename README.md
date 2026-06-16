@@ -35,9 +35,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 3 — Condicionales (`if`, `else`, `else if`) (7–10 min)
 
 - **Descripción**: Aprende cómo un programa toma decisiones usando condiciones. Se explica con ejemplos visuales como "si aprobó → mostrar felicitación".
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver el módulo](https://youtu.be/NYCTRbleRcs)
 - **Conclusiones clave**: `if (promedio >= 11) { ... } else { ... }`; los operadores relacionales (`>`, `<`, `==`) permiten comparar valores.
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id)  **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.programiz.com/java-programming/online-compiler/)  **¡Inicio inmediato!**
 
 ---
 
@@ -80,9 +80,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 8 — Encapsulación + Proyecto Final (10–12 min)
 
 - **Descripción**: Cierre del curso: se aplica encapsulación con `private`, getters y setters, y se muestra el sistema de registro de estudiantes funcionando de forma completa con menú interactivo.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link8)
+- **Enlace**: [https://youtu.be/3My2csNZaYs](https://youtu.be/3My2csNZaYs)
 - **Conclusiones clave**: `private` protege los datos; los getters los obtienen y los setters los modifican; el proyecto final integra todo lo aprendido en un sistema funcional.
-- **Proyecto final**: [Crear tu aplicación POO](https://replit.com/@your-final-java)  **¡Guarda y comparte!**
+- **Proyecto final**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡Guarda y comparte!**
 
 ---
 
@@ -101,9 +101,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 5 | Métodos y parámetros | [OnlineGDB](https://onlinegdb.com/your-lesson5) |
 | 6 | Scanner — Entrada de datos | [OnlineGDB](https://onlinegdb.com/your-lesson6) |
 | 7 | Clases y objetos | [OnlineGDB](https://onlinegdb.com/KW9-Bc1aE) |
-| 8 | Encapsulación + Proyecto Final | [Replit](https://replit.com/@your-lesson8) |
+| 8 | Encapsulación + Proyecto Final | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [https://docs.google.com/forms/d/e/1FAIpQLSd5CHFhLBc9wUvdgdwxkI7yKAK-VHCWZuNx1X8AxzSenN_OPA/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSd5CHFhLBc9wUvdgdwxkI7yKAK-VHCWZuNx1X8AxzSenN_OPA/viewform?usp=publish-editor)
 - Comparte tu avance: **#JavaFundamentosUPC**
 
 **¡Gracias por completar el curso!**
@@ -122,7 +122,7 @@ NRC 11896
 **Líder del equipo**: Julio Frank Quispe Serrano  
 **Integrantes del equipo**:
 - U20241D922 - Julio Frank Quispe Serrano
--
+- U202424059 - Mathias Marcelo De la Cruz De los Santos
 -
 - U202316852 - José Zacarias Ortega Quintana
 **Fecha de entrega**: 07-06-2026

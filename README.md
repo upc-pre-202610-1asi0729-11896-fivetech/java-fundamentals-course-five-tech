@@ -103,7 +103,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 7 | Clases y objetos | [OnlineGDB](https://onlinegdb.com/KW9-Bc1aE) |
 | 8 | Encapsulación + Proyecto Final | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [https://docs.google.com/forms/d/e/1FAIpQLSd5CHFhLBc9wUvdgdwxkI7yKAK-VHCWZuNx1X8AxzSenN_OPA/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSd5CHFhLBc9wUvdgdwxkI7yKAK-VHCWZuNx1X8AxzSenN_OPA/viewform?usp=publish-editor)
 - Comparte tu avance: **#JavaFundamentosUPC**
 
 **¡Gracias por completar el curso!**

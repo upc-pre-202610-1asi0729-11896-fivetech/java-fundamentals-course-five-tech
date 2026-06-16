@@ -123,6 +123,7 @@ NRC 11896
 **Integrantes del equipo**:
 - U20241D922 - Julio Frank Quispe Serrano
 - U202424059 - Mathias Marcelo De la Cruz De los Santos
--
+- U201717085 - Revilla Quispe, Renzo Zamir
 - U202316852 - José Zacarias Ortega Quintana
-**Fecha de entrega**: 07-06-2026
+  
+**Fecha de entrega**: 18-06-2026

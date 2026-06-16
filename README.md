@@ -44,9 +44,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 4 — Bucles (`for` y `while`) (7–10 min)
 
 - **Descripción**: Aprende a repetir tareas automáticamente. Se demuestra cómo imprimir listas de estudiantes y contar con bucles.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver el módulo](https://youtu.be/a8ne0HK_ei4)
 - **Conclusiones clave**: `for (int i = 1; i <= 5; i++) { ... }`; el `while` repite mientras una condición sea verdadera.
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-lesson4)  **¡Sin registro!**
+- **Práctica**: [Clic para programar](https://www.programiz.com/java-programming/online-compiler/)  **¡Sin registro!**
 
 ---
 

@@ -20,7 +20,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Enlace**: [https://youtu.be/XmHaV9mZF-A](https://youtu.be/XmHaV9mZF-A)
 - **Conclusiones clave**: Java se usa en aplicaciones, juegos y plataformas del mundo real; los programas son instrucciones que la computadora sigue paso a paso.
 
-
 ---
 
 ### Módulo 2 — Variables, tipos de datos y operadores (7–10 min)
@@ -28,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a almacenar información en Java usando variables. Se trabaja con `int`, `double`, `String` y operadores matemáticos básicos.
 - **Enlace**: [https://youtu.be/H-E3R28FQpo](https://youtu.be/H-E3R28FQpo)
 - **Conclusiones clave**: Declara variables como `int edad = 15;` o `String nombre = "Ana";`; los operadores te permiten calcular promedios y combinar texto.
-- **Práctica**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡No es necesario registrarse!**
+- **Práctica**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) **¡No es necesario registrarse!**
 
 ---
 
@@ -37,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende cómo un programa toma decisiones usando condiciones. Se explica con ejemplos visuales como "si aprobó → mostrar felicitación".
 - **Enlace**: [Ver el módulo](https://youtu.be/NYCTRbleRcs)
 - **Conclusiones clave**: `if (promedio >= 11) { ... } else { ... }`; los operadores relacionales (`>`, `<`, `==`) permiten comparar valores.
-- **Práctica**: [Clic para programar](https://www.programiz.com/java-programming/online-compiler/)  **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.programiz.com/java-programming/online-compiler/) **¡Inicio inmediato!**
 
 ---
 
@@ -46,7 +45,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a repetir tareas automáticamente. Se demuestra cómo imprimir listas de estudiantes y contar con bucles.
 - **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link4)
 - **Conclusiones clave**: `for (int i = 1; i <= 5; i++) { ... }`; el `while` repite mientras una condición sea verdadera.
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-lesson4)  **¡Sin registro!**
+- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-lesson4) **¡Sin registro!**
 
 ---
 
@@ -55,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a crear bloques de código reutilizables llamados métodos. Se usan ejemplos como `saludar()` y `mostrarMensaje("texto")`.
 - **Enlace**: [Ver el módulo](https://youtu.be/WHbrixMrszo)
 - **Conclusiones clave**: Un método es una tarea reutilizable; `public static void saludar() { ... }`; los parámetros permiten enviar datos al método.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/JlXY7PyPP)  **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/JlXY7PyPP) **¡No necesitas registrarte!**
 
 ---
 
@@ -64,7 +63,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a hacer programas interactivos que reciban datos del usuario usando `Scanner`. Se pide nombre, edad y nota desde la consola.
 - **Enlace**: [Ver el módulo](https://youtu.be/nU_MuK-COlc)
 - **Conclusiones clave**: `Scanner sc = new Scanner(System.in);`; `sc.nextLine()` lee texto; `sc.nextInt()` lee números enteros.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/qMNR3B5sK)  **¡Sin descarga!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/qMNR3B5sK) **¡Sin descarga!**
 
 ---
 
@@ -73,7 +72,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Introducción a la Programación Orientada a Objetos. Se explica la clase `Estudiante` con sus atributos y constructor usando la analogía: clase = molde, objeto = elemento creado desde el molde.
 - **Enlace**: [https://www.youtube.com/watch?v=iSA4nHfkHlI](https://www.youtube.com/watch?v=iSA4nHfkHlI)
 - **Conclusiones clave**: `class Estudiante { String nombre; int edad; }`; el constructor inicializa el objeto; `new Estudiante("Luis", 16, 14, 18)` crea una instancia.
-- **Práctica**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡Guarda y comparte!**
+- **Práctica**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) **¡Guarda y comparte!**
 
 ---
 
@@ -82,7 +81,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Cierre del curso: se aplica encapsulación con `private`, getters y setters, y se muestra el sistema de registro de estudiantes funcionando de forma completa con menú interactivo.
 - **Enlace**: [https://youtu.be/3My2csNZaYs](https://youtu.be/3My2csNZaYs)
 - **Conclusiones clave**: `private` protege los datos; los getters los obtienen y los setters los modifican; el proyecto final integra todo lo aprendido en un sistema funcional.
-- **Proyecto final**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler)  **¡Guarda y comparte!**
+- **Proyecto final**: [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) **¡Guarda y comparte!**
 
 ---
 
@@ -92,16 +91,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Todas las actividades prácticas**:
 
-| Módulo | Tema | Empezar a programar |
-|--------|------|---------------------|
-| 1 | Hola Mundo — Introducción a Java | [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) |
-| 2 | Variables y tipos de datos | [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) |
-| 3 | Condicionales | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson4) |
-| 5 | Métodos y parámetros | [OnlineGDB](https://onlinegdb.com/your-lesson5) |
-| 6 | Scanner — Entrada de datos | [OnlineGDB](https://onlinegdb.com/your-lesson6) |
-| 7 | Clases y objetos | [OnlineGDB](https://onlinegdb.com/KW9-Bc1aE) |
-| 8 | Encapsulación + Proyecto Final | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
+| Módulo | Tema                             | Empezar a programar                                                                              |
+| ------ | -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1      | Hola Mundo — Introducción a Java | [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) |
+| 2      | Variables y tipos de datos       | [https://www.onlinegdb.com/online_java_compiler](https://www.onlinegdb.com/online_java_compiler) |
+| 3      | Condicionales                    | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3)                                  |
+| 4      | Bucles                           | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson4)                                  |
+| 5      | Métodos y parámetros             | [OnlineGDB](https://onlinegdb.com/your-lesson5)                                                  |
+| 6      | Scanner — Entrada de datos       | [OnlineGDB](https://onlinegdb.com/your-lesson6)                                                  |
+| 7      | Clases y objetos                 | [OnlineGDB](https://onlinegdb.com/KW9-Bc1aE)                                                     |
+| 8      | Encapsulación + Proyecto Final   | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)                                      |
 
 - Cuestionario: [https://docs.google.com/forms/d/e/1FAIpQLSd5CHFhLBc9wUvdgdwxkI7yKAK-VHCWZuNx1X8AxzSenN_OPA/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSd5CHFhLBc9wUvdgdwxkI7yKAK-VHCWZuNx1X8AxzSenN_OPA/viewform?usp=publish-editor)
 - Comparte tu avance: **#JavaFundamentosUPC**
@@ -121,8 +120,9 @@ NRC 11896
 **Nombre del equipo**: FiveTech  
 **Líder del equipo**: Julio Frank Quispe Serrano  
 **Integrantes del equipo**:
+
 - U20241D922 - Julio Frank Quispe Serrano
 - U202424059 - Mathias Marcelo De la Cruz De los Santos
--
+- U201717085 - Revilla Quispe, Renzo Zamir
 - U202316852 - José Zacarias Ortega Quintana
-**Fecha de entrega**: 07-06-2026
+  **Fecha de entrega**: 18-06-2026

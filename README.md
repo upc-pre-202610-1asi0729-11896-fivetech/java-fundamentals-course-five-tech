@@ -62,9 +62,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 6 — Entrada de datos con Scanner (7–10 min)
 
 - **Descripción**: Aprende a hacer programas interactivos que reciban datos del usuario usando `Scanner`. Se pide nombre, edad y nota desde la consola.
-- **Enlace**: [Ver el módulo](https://youtu.be/nU_MuK-COlc)
+- **Enlace**: [https://youtu.be/nU_MuK-COlc](https://youtu.be/nU_MuK-COlc)
 - **Conclusiones clave**: `Scanner sc = new Scanner(System.in);`; `sc.nextLine()` lee texto; `sc.nextInt()` lee números enteros.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/qMNR3B5sK)  **¡Sin descarga!**
+- **Práctica**: [https://onlinegdb.com/qMNR3B5sK](https://onlinegdb.com/qMNR3B5sK)  **¡Sin descarga!**
 
 ---
 

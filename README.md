@@ -44,27 +44,27 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Módulo 4 — Bucles (`for` y `while`) (7–10 min)
 
 - **Descripción**: Aprende a repetir tareas automáticamente. Se demuestra cómo imprimir listas de estudiantes y contar con bucles.
-- **Enlace**: [Ver el módulo](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver el módulo](https://youtu.be/a8ne0HK_ei4)
 - **Conclusiones clave**: `for (int i = 1; i <= 5; i++) { ... }`; el `while` repite mientras una condición sea verdadera.
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-lesson4)  **¡Sin registro!**
+- **Práctica**: [Clic para programar](https://www.programiz.com/java-programming/online-compiler/)  **¡Sin registro!**
 
 ---
 
 ### Módulo 5 — Métodos y parámetros (7–10 min)
 
 - **Descripción**: Aprende a crear bloques de código reutilizables llamados métodos. Se usan ejemplos como `saludar()` y `mostrarMensaje("texto")`.
-- **Enlace**: [Ver el módulo](https://youtu.be/WHbrixMrszo)
+- **Enlace**: [https://youtu.be/WHbrixMrszo](https://youtu.be/WHbrixMrszo)
 - **Conclusiones clave**: Un método es una tarea reutilizable; `public static void saludar() { ... }`; los parámetros permiten enviar datos al método.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/JlXY7PyPP)  **¡No necesitas registrarte!**
+- **Práctica**: [https://onlinegdb.com/JlXY7PyPP](https://onlinegdb.com/JlXY7PyPP)  **¡No necesitas registrarte!**
 
 ---
 
 ### Módulo 6 — Entrada de datos con Scanner (7–10 min)
 
 - **Descripción**: Aprende a hacer programas interactivos que reciban datos del usuario usando `Scanner`. Se pide nombre, edad y nota desde la consola.
-- **Enlace**: [Ver el módulo](https://youtu.be/nU_MuK-COlc)
+- **Enlace**: [https://youtu.be/nU_MuK-COlc](https://youtu.be/nU_MuK-COlc)
 - **Conclusiones clave**: `Scanner sc = new Scanner(System.in);`; `sc.nextLine()` lee texto; `sc.nextInt()` lee números enteros.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/qMNR3B5sK)  **¡Sin descarga!**
+- **Práctica**: [https://onlinegdb.com/qMNR3B5sK](https://onlinegdb.com/qMNR3B5sK)  **¡Sin descarga!**
 
 ---
 
